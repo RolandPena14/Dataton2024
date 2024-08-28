@@ -1,0 +1,6 @@
+En el marco de la Datatón Exprésate Perú con Datos 2024, se propone un análisis exhaustivo de los datos de los **postulantes a la Universidad Nacional de Ingeniería** (UNI) durante los procesos de admisión desde 2021-I hasta 2024-I. Este estudio tiene como objetivo identificar patrones, tendencias y áreas de mejora en el proceso de admisión, con el fin de contribuir a la solución de problemas educativos en el Perú. Además, se busca alinear las conclusiones del análisis con los Objetivos de Desarrollo Sostenible (ODS) como:
+
+*   **ODS 4**: Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.
+*   **ODS 5**: Lograr la igualdad entre los géneros y empoderar a todas las mujeres y las niñas.
+
+Mediante este análisis se busca entender mejor las dinámicas del proceso de admisión en la UNI, así como también proponer soluciones concretas para fomentar la equidad de género y mejorar la calidad educativa en todo el país. Este estudio servirá como base para futuras estrategias educativas y programas de intervención, con el objetivo de que más estudiantes, independientemente de su género y origen de entidad educativa, tengan acceso a una educación de calidad y la oportunidad de ser admitidos en universidad de alta calidad educativa como la UNI.
